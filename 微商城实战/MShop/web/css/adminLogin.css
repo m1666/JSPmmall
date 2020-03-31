@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	width: 1530px;
+	height: 750px;
+	background: url(/images/adminLoginBG.jpg) no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+}
+p{
+	font: 30px "幼圆";
+	font-weight: bold;
+	color: #fff;
+	position: absolute;
+}
+.box1{
+	width: 450px;
+	height: 300px;
+	border: 3px solid #0266A3;
+	border-radius: 10px;
+	margin: 0 auto;
+	background: url(/images/adminLogin.jpg) no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	top: 100px;
+	left: 150px;
+}
+.box2{
+	font-size: 16px;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	
+}
+.box3{
+	position: absolute;
+	top: 95px;
+	left: 102px;
+}
+.box4{
+		position: absolute;
+		top: 140px;
+		left: 100px;
+}
+.tp{
+	position: absolute;
+	top: -8px;
+	left: 150px;
+	overflow: hidden;
+}
+.box5{
+	width: 60px;
+	height: 30px;		
+	position: absolute;
+	top: 190px;
+	left: 160px;
+	background: #0266A3;
+	color: #fff;
+	}
+.box6{	
+	width: 60px;
+	height: 30px;		
+	position: absolute;
+	top: 190px;
+	left: 240px;
+	background: #0266A3;
+	color: #fff;
+	}

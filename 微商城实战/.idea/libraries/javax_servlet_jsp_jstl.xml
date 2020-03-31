@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javax.servlet.jsp.jstl">
+    <CLASSES>
+      <root url="jar://D:/JAVA包/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://D:/JAVA包/jstl-impl-1.2.2.jar!/" />
+      <root url="jar://D:/JAVA包/mysql-connector-java-5.1.45-bin.jar!/" />
+      <root url="jar://D:/JAVA包/smartuploadUTF-8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
